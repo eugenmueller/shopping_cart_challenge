@@ -7,8 +7,8 @@ Write code that calculates the sum of given shopping carts based on the followin
 - peaches: 7$
 
 Two types of discounts may apply:
-if the cart contains more than 1 apple, all apples are 20% cheaper
-for each grape in the cart the next grape is free
+- if the cart contains more than 1 apple, all apples are 20% cheaper
+- for each grape in the cart the next grape is free
 
 ```ruby
 shopping_carts = [
